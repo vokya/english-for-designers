@@ -1,15 +1,12 @@
 
 # Anna Vokounová
- junior graphic designer who specializes on branding and illustration
- 
-## About me
-
+ Junior graphic designer who specializes on branding and illustration. Based in Prague
 
 ## Contact info
- email: vokounova.anna## About meseznam.cz
- phone number: +420 721419755
- online portfolio: portfoliowebsite.com
- Instagram: @workinstagram
+ - email: vokounova.anna@seznam.cz
+ - phone number: +420 721419755
+ - online portfolio: portfoliowebsite.com
+ - Instagram: @workinstagram
 
 ## Experience
 
@@ -52,35 +49,34 @@ accesible writing
 realible and hard working
 
 ### Languge skill
-Native Czech
-Intemediate English
-Begginer Spanish
+- Native Czech
+- Intemediate English
+- Begginer Spanish
 
 ### Design
-
-Idetion and conception making
-Preepress
-Branding
-Presenttion making
-Basics of animation
-Application design into real enviroment 
-Style Guidelines
+- Idetion and conception making
+- Preepress
+- Branding
+- Presenttion making
+- Basics of animation
+- Application design into real enviroment 
+- Style Guidelines
 
 ### Tools
 frequently used: 
-Adobe Illustrator
-ProCreate
-Fresco
-Figma 
+- Adobe Illustrator
+- ProCreate
+- Fresco
+- Figma 
 
-also familiar with: 
-Adobe Photoshop
-Adobe Indesign
-Adobe After Effects
+- Adobe Photoshop
+- Adobe Indesign
+- Adobe After Effects
 
 ### Languge skill
-Native Czech
-Intemediate English
-Begginer Spanish
-
-- [Download CV (PDF)](cv-2022-11-surname.pdf) <!-- At the top or bottom? -->
+- Native Czech
+- Intemediate English
+- Begginer Spanish
+-------
+### PDF CV 
+- [Show CV (PDF)](cv-2022-11-surname.pdf) <!-- At the top or bottom? -->
