@@ -1,6 +1,6 @@
 
 # Anna Vokounová
- Junior graphic designer who specializes on branding and illustration. Based in Prague
+ Junior graphic designer who specializes on branding and illustration. Based in Prague,Czech Republic. 
 
 ## Contact info
  - email: vokounova.anna@seznam.cz
@@ -12,26 +12,21 @@
 
 June 2022 - now
 
- **Reallife clients through school agency**
+ ### Reallife clients through school agency ###
 
-As a student, most of my experience comes from real client works mediated by school agency for example New Galerie conception and branding from Czech Post brand, Branding
+As a student, most of my experience comes from real client works mediated by school agency for example New Galerie conception and branding from Czech Post brand, Branding of restaurant Kobe or theatre branding. 
   
 
 2017 - now
 
 ### Freelance projects ###
-- mostly branding and illustration 
+- mostly branding and illustration for ex. personal trainer brand, online magazine article illustrations, brandidentity for a handyman, wedding stacionery
 
 June 2022 - now (Full-Time)
 
 ### Yellow Shapes ###
 - packiging and branding studio, Prague
-- 
-
-2020 - now (Internship)
-
- ### Garp Integrated ### 
- - adverting agency, Prague
+ - packiging redesigns or limited edition design of food products such as Král Sýrů, Pribináček or Globus, creatig brand indentity for private mediacal clinic 
 
 ## Education
 
