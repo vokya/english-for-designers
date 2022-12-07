@@ -1,1 +1,35 @@
+# First Impression
 
+## About Anna Vokounová
+
+<!-- Consider including a headshot. -->
+
+![Write an alternative text description.](images/headshot-osm.jpg)
+
+A short description about yourself.
+
+## Featured Projects
+
+A short description about the work.
+
+### Featured Project 1 Title
+
+![Write an alternative text description.](images/featured-project-01.png)
+
+- A short description about the project — *the what*.
+- A short description about the significance or outcome of the project — *the why*.
+
+<!-- Use the same stucture above for the rest of your featured projects. -->
+
+<!-- Add a link to your presentation. -->
+
+- [View Presentation](images/featured-projects-osm-2022.pdf)
+
+## Notes
+
+Numbered comments about each featured project as presenter notes or speaking points.
+
+1. …
+2. …
+3. …
+<!-- And so on. -->
