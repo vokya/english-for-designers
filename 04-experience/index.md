@@ -11,18 +11,21 @@
 ## Experience
 
 June 2022 - now
-- Reallife clients through school agency
+**Reallife clients through school agency**
+As a student, most of my experience comes from real client works mediated by school agency for example New Galerie conception and branding from Czech Post brand, Branding
+  
 
 2017 - now
-- Freelance projects
+**Freelance projects**
 
 June 2022 - now (Full-Time)
-- Yellow Shapes.s.r.o.
-  - packiging and branding studio, Prague
+
+**Yellow Shapes**, packiging and branding studio, Prague
+   - 
 
 2020 - now (Internship)
-- Garp Integrated
- - adverting agency, Prague
+
+ **Garp Integrated** , adverting agency, Prague
 
 ## Education
 
@@ -30,13 +33,13 @@ June 2022 - now (Full-Time)
 
 **Prague School of Creative Communication**
 
-graphic and media design studies with bachelor degree
+graphic and media design studies,full-time Bachelor’s Programme
 
 2017-2019
 
-**Vocational School of Multimedia and Promotional Creation**
+**Prague Vocational School of Multimedia and Promotional Creation**
 
-graphic design and art
+graphic design and art studies
 
 ## Skills
 
@@ -60,6 +63,7 @@ realible and hard working
 - Basics of animation
 - Application design into real enviroment 
 - Style Guidelines
+- Social media content and design
 
 ### Tools
 frequently used: 
