@@ -10,7 +10,8 @@
 
 ## Featured Projects
 
-A short description about the work.
+My work focus is currently mostly branding and illustration. 
+link to my portfolio: 
 
 ###  Viola Theatre
 
