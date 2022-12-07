@@ -1,6 +1,6 @@
 # Voice & Tone
 
-An overview…
+In my communication w
 
 ## Voice
 
