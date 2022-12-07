@@ -11,19 +11,18 @@
 ## Experience
 
 June 2022 - now
-Reallife clients through school agency
+- Reallife clients through school agency
 
 2017 - now
-Freelance projects
+- Freelance projects
 
-June 2022 - now
-Yellow Shapes.s.r.o.
-packiging and branding studio, Prague
+June 2022 - now (Full-Time)
+- Yellow Shapes.s.r.o.
+  - packiging and branding studio, Prague
 
-2020 - now
-Garp Integrated
-adverting agency, Prague
-Internship 
+2020 - now (Internship)
+- Garp Integrated
+ - adverting agency, Prague
 
 ## Education
 
