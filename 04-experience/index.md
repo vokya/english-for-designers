@@ -11,21 +11,27 @@
 ## Experience
 
 June 2022 - now
-**Reallife clients through school agency**
+
+ **Reallife clients through school agency**
+
 As a student, most of my experience comes from real client works mediated by school agency for example New Galerie conception and branding from Czech Post brand, Branding
   
 
 2017 - now
-**Freelance projects**
+
+### Freelance projects ###
+- mostly branding and illustration 
 
 June 2022 - now (Full-Time)
 
-**Yellow Shapes**, packiging and branding studio, Prague
-   - 
+### Yellow Shapes ###
+- packiging and branding studio, Prague
+- 
 
 2020 - now (Internship)
 
- **Garp Integrated** , adverting agency, Prague
+ ### Garp Integrated ### 
+ - adverting agency, Prague
 
 ## Education
 
@@ -44,22 +50,17 @@ graphic design and art studies
 ## Skills
 
 ### Soft skills
-graphic team management and leadership
-presentation skill
-presentation making
-accesible writing
-realible and hard working
-
-### Languge skill
-- Native Czech
-- Intemediate English
-- Begginer Spanish
+- graphic team management and leadership
+- presentation 
+- accesible writing
+- always learing 
+- ideation 
 
 ### Design
 - Idetion and conception making
 - Preepress
 - Branding
-- Presenttion making
+- Presentation creation
 - Basics of animation
 - Application design into real enviroment 
 - Style Guidelines
