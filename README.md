@@ -1,5 +1,5 @@
 # english-for-designers
-Work in progress classwork
+Class assignments
   - [Alterantive text](01-alternative-text)
   - [First Impression](02-first-impression)
   - [Content First](03-content-first)
