@@ -6,13 +6,13 @@
 
 ![Write an alternative text description.](images/headshot-osm.jpg)
 
-A short description about yourself.
+ I am graphic design student, tend to be graphic designer profesionally full time one day. My focus is branding and illustration. 
 
 ## Featured Projects
 
 A short description about the work.
 
-### Featured Project 1 Title
+###  Viola Theatre
 
 ![Write an alternative text description.](images/featured-project-01.png)
 
