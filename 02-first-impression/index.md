@@ -1,6 +1,6 @@
 # First Impression
 
-## About Anna Vokounová
+## About me
 
 <!-- Consider including a headshot. -->
 
