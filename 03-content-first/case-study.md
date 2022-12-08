@@ -12,7 +12,7 @@ Unfortunately, visual communication has shattered over time a has become more an
 Original logo with some other exaples of original visual identity
 
 In our design solution, we decided to enhance special aspects of the theater such as the unique closeness to the artists and the beauty of the Czech language. As logo we used the original typeface in the entrance. 
-![Original logo of theatre Viola and our facelift of the same sign](old-visual-style.png)
+![Original logo of theatre Viola and our facelift of the same sign](new-logo.png)
 Logo from the entrance and our facelifted version
 
 We introduced a little play to the project by expressing physical clossenes in the theatre with taglines like" Be even closer to us in January" on the program. Intimity was also used in typography.
