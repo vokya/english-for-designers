@@ -15,8 +15,8 @@ In my work as a designer, I am mostly focused on visual identities. My dream job
 
 When I am not behind a computer screen, I love to move my body in yoga poses, spent time with my two dogs outside, or discover new coffee shops with my friends.🧘🏼‍♀️🐶🐶☕
 
-## Theatre Viola
-![Thumbnail of a project Viola .](about-me-photo.jpg)
+## Rebrand of Viola Theatre
+![Thumbnail of a project Viola .](Viola-thumbnail-picture.png)
 
 - Creating new visual communication of significant Prague theatre 
 - Theatre required uniting and simplifying the visual communication to appeal to younger clients
