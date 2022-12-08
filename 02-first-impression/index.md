@@ -15,22 +15,15 @@ link to my portfolio:
 
 ###  Viola Theatre
 
-![Write an alternative text description.](images/featured-project-01.png)
+- ## Rebrand of Viola Theatre
+![Thumbnail of a project Viola .](Viola-thumbnail-picture.png)
 
-- A short description about the project — *the what*.
-- A short description about the significance or outcome of the project — *the why*.
-
+- Creating new visual communication of significant Prague theatre 
+- Theatre required uniting and simplifying the visual communication to appeal to younger clients
+- [View Selected Case Study](case-study.md)
 <!-- Use the same stucture above for the rest of your featured projects. -->
 
-<!-- Add a link to your presentation. -->
+###  Portfolio
 
-- [View Presentation](images/featured-projects-osm-2022.pdf)
+<!-- https://vokounovaannadb3b.myportfolio.com/vizualni-identita-divadla -->
 
-## Notes
-
-Numbered comments about each featured project as presenter notes or speaking points.
-
-1. …
-2. …
-3. …
-<!-- And so on. -->
