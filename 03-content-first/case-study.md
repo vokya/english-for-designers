@@ -8,18 +8,12 @@ We colaborated with the small but very significant Prague Viola theatre located 
 Oval entrance of Viola Thatre and the interior now and in the 70s
 
 Unfortunately, visual communication has shattered over time a has become more and more fragmented and neglected. The client’s request was to upgrade communication to be more attractive and united. A logo, website, all printed materials, and a social media strategy was required. The main objective was to appeal to younger viewers, but also not to offend the usual older visitors. You can see original communication below.
-![Original logo of theatre Viola, Art Nouveau styled letters in violet color spelling Viola.](Viola-4.jpeg)
-Original logo
+![Original logo of theatre Viola, Art Nouveau styled letters in violet color spelling Viola.](old-visual-style.png)
+Original logo with some other exaples of original visual identity
 
-![Poster for a thetre performance.](Viola-5.jpeg)
-Original poster for a theatre performance
-
-![Poster for a thetre performance.](Viola-6.jpeg)
-Original poster for a theatre performance
-
-In our design solution, we decided to enhance special aspects of the theater such as the unique closeness to the artists and the beauty of the Czech language. As logo we used the original typeface ahnging in the entrance. 
-
-Logo from the entrance 
+In our design solution, we decided to enhance special aspects of the theater such as the unique closeness to the artists and the beauty of the Czech language. As logo we used the original typeface in the entrance. 
+![Original logo of theatre Viola and our facelift of the same sign](old-visual-style.png)
+Logo from the entrance and our facelifted version
 
 We introduced a little play to the project by expressing physical clossenes in the theatre with taglines like" Be even closer to us in January" on the program. Intimity was also used in typography.
 
