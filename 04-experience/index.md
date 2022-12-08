@@ -1,6 +1,6 @@
 
 # Anna Vokounová
- Junior graphic designer who specializes on branding and illustration. Based in Prague,Czech Republic. 
+ Junior graphic designer who specializes on branding and illustration. Based in Prague, Czech Republic. 
 
 ## Contact info
  - email: vokounova.anna@seznam.cz
