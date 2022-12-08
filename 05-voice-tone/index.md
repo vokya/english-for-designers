@@ -1,13 +1,13 @@
 # Voice & Tone
 
-In my communication w
+In my communication I want to come across as inteligent but accesible.
 
 ## Voice
 
 Introduction to section…
 
-1. …
-2. …
+1 friendly
+2.use of emoji
 3. …
 
 ## Tone
