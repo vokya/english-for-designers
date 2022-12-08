@@ -22,14 +22,14 @@ June 2022 - now
 - mostly branding and illustration projects for ex. personal trainer brand, online magazine article illustrations, brand identity for a handyman, wedding stacionery
 
 
-June 2022 - now (Full-Time)
+June 2022 - October 2022(Full-Time)
 ### Yellow Shapes 
 - packiging and branding studio, Prague
- - packiging redesigns or limited edition design of food products such as Král Sýrů, Pribináček or Globus, creatig brand indentity for private mediacal clinic 
+ - packiging redesigns or limited edition design of food brands such as Král Sýrů, Pribináček or Globus, creatig brand indentity for private mediacal clinic 
 
 ## Education
 2020 - now
-**Absolved online courses 
+### Absolved online courses 
 
 - Sustainable Graphic design
 - Adobe Photoshop Advanced
