@@ -4,7 +4,7 @@
 
 <!-- Consider including a headshot. -->
 
-![Write an alternative text description.](images/headshot-osm.jpg)
+![Anna working on a computer.](about-me-photo.jpg)
 
  I am graphic design student, tend to be graphic designer profesionally full time one day. My focus is branding and illustration. 
 
