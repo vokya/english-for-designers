@@ -21,7 +21,7 @@ Typography game example
 
 
 The colors, that I particularly enjoyed,are in the form of warm gradients inspired by theater lights, also the cozy atmosphere and abstract emotions during the performance.
-![Poster for a thetre performance.](case-study-viola.jpg)
+![Overview of elements od visual identity.](design-viola.png)
 Design for a poster
 
 We hope that our design and marketing choices would come across as attractive and accessible for visitors of every age. The new approach to social media would raise the awareness of the brand among younger clients that are in my opinion no less interested in theatre. 
