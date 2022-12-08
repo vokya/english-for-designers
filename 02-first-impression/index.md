@@ -20,7 +20,7 @@ link to my portfolio:
 
 - Creating new visual communication of significant Prague theatre 
 - Theatre required uniting and simplifying the visual communication to appeal to younger clients
-- [View Selected Case Study](case-study.md)
+- [View Selected Case Study](english-for-designers/03-content-first/index.md)
 <!-- Use the same stucture above for the rest of your featured projects. -->
 
 ###  Portfolio
