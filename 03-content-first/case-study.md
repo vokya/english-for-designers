@@ -17,12 +17,9 @@ Logo from the entrance and our facelifted version
 
 We introduced a little play to the project by expressing physical clossenes in the theatre with taglines like" Be even closer to us in January" on the program. Intimity was also used in typography.
 
-Typography game example
-
-
 The colors, that I particularly enjoyed,are in the form of warm gradients inspired by theater lights, also the cozy atmosphere and abstract emotions during the performance.
 ![Overview of elements od visual identity.](design-viola.png)
-Design for a poster
+Overview of our design application
 
 We hope that our design and marketing choices would come across as attractive and accessible for visitors of every age. The new approach to social media would raise the awareness of the brand among younger clients that are in my opinion no less interested in theatre. 
 
