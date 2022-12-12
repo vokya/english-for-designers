@@ -1,29 +1,29 @@
 # Voice & Tone
+## Personal Brand Voice Guidelines 
 
-In my communication I want to come across as inteligent but accesible.
+In my communication I want to come across as proffesional but also accesible and inviting. 
 
 ## Voice
 
-Introduction to section…
+Overall voice should as written from a warm, caring but also oranized and efficient person.
 
-1 friendly
-2.use of emoji
-3. …
+1 genuine
+2.inviting
+3.knowledgeble
+4. well-structured
 
 ## Tone
 
-Introduction to section…
+Keeping it simple and concise. Button up
+a bit,use of proffesional phrases,but still show my 
+personality. 
 
-- …
-- …
-- …
 
 ## Style
 
-Introduction to section…
 
-<!-- Perhaps include style tips on capitalization of headings (sentence or title case), words to avoid, or general grammar and mechanics dos and don'ts, etc. See https://styleguide.mailchimp.com/grammar-and-mechanics/-->
-
-- …
-- …
-- …
+- keeping setences short 
+- use of contractions - gives informal friendly tone
+- accesible - plainspoken- when it can be said in less words do it
+- use of emoji - fun
+- use of field terms
