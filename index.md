@@ -16,7 +16,7 @@ This is my tagline that tells  you about who I am, what I love to do, what can I
 
 ## Classwork/Extras/Accesibility
 
-- Alternative text
+- [Alternative text](01-alternative-text)
 - First Impression (presenation)
 - Takeaways
 
