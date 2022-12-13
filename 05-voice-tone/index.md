@@ -5,22 +5,21 @@ In my communication I want to come across as proffesional but also accesible and
 
 ## Voice
 
-Overall voice should as written from a warm, caring but also oranized and efficient person.
+Overall voice should as written from someone warm but also oranized and efficient. 
 
-1 genuine
-2.inviting
-3.knowledgeble
-4. well-structured
+- genuine
+- inviting
+- knowledgeble
+- well-structured content
 
 ## Tone
 
 Keeping it simple and concise. Button up
-a bit,use of proffesional phrases,but still show my 
+a bit,use of proffesional phrases,but still show
 personality. 
 
 
 ## Style
-
 
 - keeping setences short 
 - use of contractions - gives informal friendly tone
