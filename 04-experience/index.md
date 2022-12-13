@@ -10,52 +10,44 @@
 
 ## Experience
 
-June 2022 - now
-### University clients
+### June 2022 - now, University clients
 
 - As a student, most of my experience comes from real client works mediated by school agency for example New Galerie conception and branding from Czech Post brand, Branding of restaurant Kobe or theatre branding. 
   
-
-
-2017 - now
-### Freelance projects 
+### 2017 - now, Freelance projects 
 - mostly branding and illustration projects for ex. personal trainer brand, online magazine article illustrations, brand identity for a handyman, wedding stacionery
 
-
-June 2022 - October 2022(Full-Time)
-### Yellow Shapes 
+### June 2022 - October 2022(Full-Time), Yellow Shapes 
 - packiging and branding studio, Prague
  - packiging redesigns or limited edition design of food brands such as Král Sýrů, Pribináček or Globus, creatig brand indentity for private mediacal clinic 
 
 ## Education
-2020 - now
-### Absolved online courses 
+
+### 2020 - now, Absolved online courses 
 
 - Sustainable Graphic design
 - Adobe Photoshop Advanced
 - After Effects Basics
 
-2020 - now
+### 2020 - now, Prague School of Creative Communication
 
-**Prague School of Creative Communication**
+- graphic and media design studies,full-time Bachelor’s Programme
 
-graphic and media design studies,full-time Bachelor’s Programme
+### Prague Vocational School of Multimedia and Promotional Creation
 
-2017-2019
-
-**Prague Vocational School of Multimedia and Promotional Creation**
-
-graphic design and art studies
+- graphic design and art studies
 
 ## Skills
 
 ### Soft skills
+
 - graphic team management and leadership
 - presentation 
 - accesible writing
 - eager to learn and improve
 
 ### Design
+
 - Idetion and conception making
 - Preepress
 - Branding
@@ -66,19 +58,20 @@ graphic design and art studies
 - Social media content and design
 
 ### Tools
-**frequently used
+**frequently used**
 
 - Adobe Illustrator
 - ProCreate
 - Fresco
 - Figma 
 
-**also familiar with: 
+**also familiar with**
 - Adobe Photoshop
 - Adobe Indesign
 - Adobe After Effects
 
 ### Languge skill
+
 - Native Czech
 - Intemediate English
 - Begginer Spanish
