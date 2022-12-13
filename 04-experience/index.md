@@ -81,6 +81,7 @@ graphic design and art studies
 - Native Czech
 - Intemediate English
 - Begginer Spanish
+
 -------
 ### PDF CV 
 - [Show CV (PDF)](images/cv-2022-12-vokounova.pdf) <!-- At the top or bottom? -->
