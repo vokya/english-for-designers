@@ -18,5 +18,5 @@ This is my tagline that tells  you about who I am, what I love to do, what can I
 
 - [Alternative text](01-alternative-text)
 - First Impression (presenation)
-- Takeaways
+- [Takeaways](takeaways)
 
