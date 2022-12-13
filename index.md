@@ -11,7 +11,7 @@ This is my tagline that tells  you about who I am, what I love to do, what can I
 
 ## My wokr/casestudies
 
-- Project
+- [Project](03-case-study)
 - Project presentation
 
 ## Classwork/Extras/Accesibility
