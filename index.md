@@ -6,7 +6,7 @@ This is my tagline that tells  you about who I am, what I love to do, what can I
 
 - My Story (About me page)
 - [CV/résumé](04-experience)
-- Voice, Tone, and Style Guide
+- [Voice, Tone, and Style Guide](05-voice-tone)
 - Cotact: `vokounova.anna@seznam.cz`
 
 ## My wokr/casestudies
