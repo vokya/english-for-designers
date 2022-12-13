@@ -66,7 +66,8 @@ graphic design and art studies
 - Social media content and design
 
 ### Tools
-**frequently used: 
+**frequently used
+
 - Adobe Illustrator
 - ProCreate
 - Fresco
