@@ -1,4 +1,4 @@
-# Tagline (Hi, I’m Anna)
+#Hi, I’m Anna
 
 This is my tagline that tells  you about who I am, what I love to do, what can I do for you and something person that might helo desfine the culture fit. 
 
@@ -17,6 +17,6 @@ This is my tagline that tells  you about who I am, what I love to do, what can I
 ## Classwork/Extras/Accesibility
 
 - [Alternative text](01-alternative-text)
-- First Impression (presenation)
+- [First Impression](02-first-impression)
 - [Takeaways](takeaways)
 
