@@ -12,7 +12,7 @@ Welcome to my page. I am graphic designer mainly focused on illustration and bra
 
 ## My work
 
-- [Viola Theatre project](03-case-study)
+- [Viola Theatre project](03-content-first/case-study.md)
 
 ## Extras
 
