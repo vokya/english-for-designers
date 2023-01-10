@@ -5,7 +5,7 @@ In my communication I want to come across as proffesional but also accesible and
 
 ## Voice
 
-Overall voice should as written from someone warm but also oranized and efficient. 
+Overall voice should as written from someone warm, helpful but also efficient. 
 
 - genuine
 - inviting
