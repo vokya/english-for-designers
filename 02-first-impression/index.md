@@ -6,7 +6,7 @@
 
 ![Anna working on a computer.](headshot.png)
 
- I am graphic design student, tend to be graphic designer profesionally full time one day. My focus is branding and illustration. 
+ I am graphic design student, I would like to be a graphic designer profesionally full time one day. My focus is branding and illustration. 
 
 ## Featured Projects
 
