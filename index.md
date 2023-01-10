@@ -1,20 +1,20 @@
-# Hi, I’m Anna
+# Hi, I’m Anna ☺️
 
-This is my tagline that tells  you about who I am, what I love to do, what can I do for you and something person that might helo desfine the culture fit. 
+Welcome to my page. I am graphic designer mainly focused on illustration and branding. Learn a bit more down bellow!
 
 ## About Me
 
 - My Story (About me page)
+- [First Impression](02-first-impression)
 - [CV/résumé](04-experience)
 - [Voice, Tone, and Style Guide](05-voice-tone)
 - Cotact: `vokounova.anna@seznam.cz`
 
-## My wokr/casestudies
+## My work
 
-- [Project](03-case-study)
-- Project presentation
+- [Viola Theatre project](03-case-study)
 
-## Classwork/Extras/Accesibility
+## Extras
 
 - [Alternative text](01-alternative-text)
 - [First Impression](02-first-impression)
