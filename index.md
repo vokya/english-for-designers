@@ -19,5 +19,6 @@ Welcome to my page! I am graphic designer mainly focused on illustration and bra
 - [First Impression](02-first-impression)
 - [Takeaways](takeaways)
 
----------------
+---
+
 🫶 [You can also view my portfolio](https://vokounovaannadb3b.myportfolio.com/work) 🫶
