@@ -1,6 +1,6 @@
 # Hi, I’m Anna ☺️
 
-Welcome to my page. I am graphic designer mainly focused on illustration and branding. Learn a bit more down bellow 👇
+Welcome to my page! I am graphic designer mainly focused on illustration and branding. Learn a bit more down bellow 👇
 
 ## About Me
 
