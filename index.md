@@ -4,7 +4,7 @@ Welcome to my page. I am graphic designer mainly focused on illustration and bra
 
 ## About Me
 
-- My Story (About me page)
+- [My Story](03-content-first/index.md)
 - [First Impression](02-first-impression)
 - [CV/résumé](04-experience)
 - [Voice, Tone, and Style Guide](05-voice-tone)
