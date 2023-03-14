@@ -7,4 +7,4 @@
 <!-- Preparing a conference talk: https://adactio.com/journal/14363 -->
 <!-- A refresher about case studies: https://thegymnasium.com/courses/take5/taking-your-portfolio-case-studies-to-the-next-level
 
-![Anna working on a computer.](headshot.png)
+![Anna working on a computer.](Screenshot 2023-03-07 at 10.22.55.png)
