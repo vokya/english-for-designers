@@ -13,7 +13,7 @@ I started similarly from the talk about Web design, I just put everything on pap
 ![image](https://user-images.githubusercontent.com/116082661/225023187-ce120fea-d18a-4f6a-b95b-b555148357c6.png)
 
 ### Chosen ideas on sticker papers
-![image](https://user-images.githubusercontent.com/116082661/225023187-ce120fea-d18a-4f6a-b95b-b555148357c6.png)
+![image](Screenshot%202023-03-07%20at%2010.22.55.png)
 
 ### First slides
 - [Show first draft slides](Untitled.pdf) <!-- At the top or bottom? -->
