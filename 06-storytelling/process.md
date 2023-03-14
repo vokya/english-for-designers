@@ -1,7 +1,7 @@
 # Few things I've learned as a designer and a person
-## Process of my work 
+## ✏️ Process of my work 
 
-- Read [the article](…) <!-- index.md -->
+- Read [the final talk will be here](…) <!-- index.md -->
 
 <!-- Treat this as the case study to your article/talk/presentation. Document, discuss, and show your process (mind maps, chunking, draft and revised content, links to resources, etc.) -->
 <!-- Preparing a conference talk: https://adactio.com/journal/14363 -->
