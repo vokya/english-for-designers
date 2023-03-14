@@ -1,5 +1,5 @@
 # Few things Ive learned as a designer and a person
-## Process of work 
+## Process of my work 
 
 - Read [the article](…) <!-- index.md -->
 
