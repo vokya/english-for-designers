@@ -17,4 +17,5 @@ Then I made some draft slides. Now I am in the stage of drafting the text and tr
 Draft slides
 ![Draft slides](06-storytelling/Screenshot 2023-03-07 at 10.22.55.png)
 ### First slides
-- [Show CV (PDF)]() <!-- At the top or bottom? -->
+- [Show first draft slides](Untitled.pdf) <!-- At the top or bottom? -->
+### Text draft
