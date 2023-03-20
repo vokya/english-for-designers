@@ -1,14 +1,12 @@
-# Few things I’ve learned as a designer and a person 
+# Few things I’ve learned as designer
 
 by Anna Vokounová
 
-- Watch [the video](…) <!-- Optional, if you made a video. -->
 - Download [the slides](slides.pdf) <!-- Link to your slides: PDF, Figma, etc. -->
 - View [the process](process.md) <!-- Preparation, show and tell your process; think, case study. -->
-- Read the final article [the video](…) <!-- Optional, if you made a video. -->
 
 
-## Few things I’ve learned as a designer and a person 
+## Few things I’ve learned as a designer
 When I was asked to think of a story to share, I thought to myself What could I possibly share that would be somehow useful to you? I am a junior designer currently pursuing my bachelor's year so I was thinking that I could summon and kind of reflect on things that I’ve learned during my professional design journey.
 
 Maybe some of you have experience with oil painting. My professor in high school learned me that this is the correct technique to paint the first layers.  This technique I told you about surely has a painting logic behind it but it also helps get rid of the scary empty whiteness. It is messy, weird and frustrating, full of trial and error, and ultimately incomplete depiction of what the final piece will be. I think that the first layers are a lot like your 20s. It's mostly a mess and trying to figure it out but as first layers, they are crucial for the integrity and foundation of the work and even the most gracious works have them. But sometimes even this doesn’t bring me comfort and I still feel like this sometimes I still suck. But I think that`s normal.
