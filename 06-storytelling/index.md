@@ -3,7 +3,7 @@
 by Anna Vokounová
 
 - Watch [the video](…) <!-- Optional, if you made a video. -->
-- Download [the slides](images/surname-slides.pdf) <!-- Link to your slides: PDF, Figma, etc. -->
+- Download [the slides](slides.pdf) <!-- Link to your slides: PDF, Figma, etc. -->
 - View [the process](process.md) <!-- Preparation, show and tell your process; think, case study. -->
 - Read the final article [the video](…) <!-- Optional, if you made a video. -->
 
