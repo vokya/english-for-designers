@@ -1,6 +1,6 @@
-# Talk 
+# Few things I’ve learned as a designer and a person 
 
-by Name Surname
+by Anna Vokounová
 
 - Watch [the video](…) <!-- Optional, if you made a video. -->
 - Download [the slides](images/surname-slides.pdf) <!-- Link to your slides: PDF, Figma, etc. -->
