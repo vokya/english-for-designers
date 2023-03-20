@@ -1,4 +1,4 @@
-# Few things I’ve learned as designer
+# Few things I’ve learned as a designer
 
 by Anna Vokounová
 
