@@ -1,4 +1,4 @@
-# Few things I've learned as a designer and a person
+# Few things I've learned as a designer
 ## ✏️ Process of my work 
 
 [The final talk](index.md) is here 😉 but if you're curious how it all strated, keep reading👇🏻 <!-- 06-storytelling
@@ -13,7 +13,7 @@ Hi! Let me guide you through the creation of this presentation. I started as the
 ### Mind map
 ![hand written mind map on a A3 paper](https://user-images.githubusercontent.com/116082661/225023187-ce120fea-d18a-4f6a-b95b-b555148357c6.png)
 
-At this point, I was thinking about my title. After a while, I came up with a Few things that I've learned as a designer and a person because that was basically what I wrote about. I am not sure if I'm happy with the title now but it is what it is.  🤷🏼‍♀️ It was meant partly personal however I tried to make the talk mostly about design. 
+At this point, I was thinking about my title. After a while, I came up with a Few things that I've learned as a designer because that was basically what I wrote about. I am not sure if I'm happy with the title now but it is what it is.🤷🏼‍♀️ It was meant partly personal however I tried to make the talk mostly about design. 
 
 ### Chosen ideas on sticker papers
 [Colorful sticker notes with ideas grouped together](Untitled.pdf) were basically including chapters on orange sticker notes and on the yellow ones is what the particular chapter talked about. 
