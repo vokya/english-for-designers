@@ -1,6 +1,6 @@
 # 🎓 Thesis presentation
 
-## Visual Identity for Elementary School
+## Visual Identity for Elementary School in the village of Měšice
 
 by Anna Vokounová
 
