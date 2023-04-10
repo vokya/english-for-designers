@@ -18,7 +18,7 @@ Welcome to my page! I am graphic designer mainly focused on illustration and bra
 
 ## Work from summer semester
 - [Storytelling](06-storytelling/index.md)
-- [Abstract](07-alternative-text)
+- [Thesis Abstract](07-thesis-abstract/index.md)
 - [Final presentation of my thesis](07-alternative-text)
 ---
 
