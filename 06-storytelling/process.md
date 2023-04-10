@@ -1,7 +1,7 @@
 # Few things I've learned as a designer and a person
 ## ✏️ Process of my work 
 
-[The final talk](06-storytelling/index.md) is here 😉 but if you're curious how it all strated, keep reading👇🏻 <!-- 06-storytelling
+[The final talk](index.md) is here 😉 but if you're curious how it all strated, keep reading👇🏻 <!-- 06-storytelling
 /index.md -->
 
 <!-- Treat this as the case study to your article/talk/presentation. Document, discuss, and show your process (mind maps, chunking, draft and revised content, links to resources, etc.) -->
@@ -24,4 +24,4 @@ At this point, I was thinking about my title. After a while, I came up with a Fe
 As I wrote about each chapter I quickly realized there is no chance to put this much content into one short presentation so I had to decide what to focus on. I chose a chapter about perfectionism and I also covered a little bit of struggling in your 20s. 
 
 --- 
- And here is again [the final talk](06-storytelling/index.md) if you wanna take a look at how it turned out! ☺️
+ And here is again [the final talk](index.md) if you wanna take a look at how it turned out! ☺️
