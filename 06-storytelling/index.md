@@ -16,9 +16,9 @@ When I was asked to think of a story to share, I thought to myself What could I 
 
 Maybe some of you have experience with oil painting. My professor in high school learned me that this is the correct technique to paint the first layers.  This technique I told you about surely has a painting logic behind it but it also helps get rid of the scary empty whiteness. It is messy, weird and frustrating, full of trial and error, and ultimately incomplete depiction of what the final piece will be. I think in that way the first layers are a lot like your 20s. It's mostly a mess and trying to figure it out but as first layers, they are crucial for the integrity and foundation of the work and even the most gracious works have them. But sometimes even this doesn’t bring me comfort and I still feel like this. Sometimes I still feel like I suck. But I think that's normal. Let me tell you why...
 
-| ![fisrt sketchlike layer of oil painting, whole canvas covered in brown foundation color](oil-painting.png) |
+| ![illustration of a beanlike character throwing hands in the air as if it doesn't care and saying it sucks and laughs about it](beanie-illustration.png) |
 |:--:|
-|*First layer of oil painting*|
+|*Beanie*|
 
  
 Last summer I went to work full-time in the design studio which was pretty much my first real design work experience. And these were my thought pretty much all the time.
@@ -27,6 +27,10 @@ Some time passed and I started to be a little bit more comfortable and I gain so
 So what stands in our (well, at least in mine) way? 
 
 I give you an example from my normal life when I was meant to prepare my very first yoga class. I had crystal clear ideas of how it should go and what people should get from my class. I wanted it to be like a safe space where you throw behind all ideas about how the poses should look and allow yourself just try and be your imperfect you. As I encouraged people to lose the negative voice in their heads, mine on the other hand began to feel like a war general who was not going to cut any slack anytime soon. So I was the right example of not practicing what I was preaching. I think this picture says it all. As you might guess I am talking about perfectionism. 
+
+| ![In illustrated comics simple character says: "Well, I didn't do it perfectly, I feel like I am going to burst into flames, but otherwise, I am doing just fantastic."](perfectionism-illustration.png) |
+|:--:|
+|*Perfectionism captured in one picture*|
 
 To clarify perfectionism is not the same thing as striving to be your best. Perfection is not about healthy achievement and growth but most likely pressures us to think that we have to be perfect on all occasions and otherwise, we are not worth it or it's not worth it. So how this can manifest in the creative process? Yes right…it can crush it or in the best-case scenario, it can take all the fun out of it. The overwhelming fear of not getting it right sometimes may stand in the way of even beginning the project. Sometimes solid perfectionists take an excessive amount of time to complete a task that does not typically take others long to complete.  As a result, they may focus less on the process of learning or completing a task to the best of their ability.
 
