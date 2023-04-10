@@ -16,10 +16,12 @@ I started similarly as from the talk about Web design, I just put everything on 
 At this point, I was thinking about what these things have in common and what my title should be. I came up with a few things that I've learned as a designer and a person because that was basically what I wrote about. I tried to make the talk mostly about design however, whether I liked it or these things are an inherent part of my life, and that's the reason I added person too. Then I made some draft slides. Now I am in the stage of drafting the text and trying to write something about every chapter.
 
 ### Chosen ideas on sticker papers
+- [First draft slides](Untitled.pdf) were basically including chapters on orange sticker notes and on the yellow ones is what the particular chapeter talked about. 
 ![image](Screenshot%202023-03-07%20at%2010.22.55.png)
 
-### First slides
-- [Show first draft slides](Untitled.pdf) <!-- At the top or bottom? -->
+### Narrowing it down
 
-### Text draft
- yet to come...☺️
+- As I wrote about every chapter I quickly realised there is no chance to put this much content to one short presentation so I had to decide what to focus on. I chose a chapter about perfectionism and I also covered a little bit of struggling in your 20s. 
+--- 
+ And here is again [the final talk](…) <!-- 06-storytelling
+/index.md --> if you wanna take a look at how it turned out! ☺️
