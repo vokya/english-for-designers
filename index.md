@@ -9,12 +9,9 @@ Welcome to my page! I am graphic designer mainly focused on illustration and bra
 - [Voice, Tone, and Style Guide](05-voice-tone)
 - Cotact: `vokounova.anna@seznam.cz`
 
-## My work
+## Work from winter semester
 
 - [Viola Theatre project](03-content-first/case-study.md)
-
-## Extras
-
 - [Alternative text](01-alternative-text)
 - [First Impression](02-first-impression)
 - [Takeaways](takeaways)
