@@ -8,7 +8,7 @@
 <!-- Preparing a conference talk: https://adactio.com/journal/14363 -->
 <!-- A refresher about case studies: https://thegymnasium.com/courses/take5/taking-your-portfolio-case-studies-to-the-next-level -->
  
-Hi! Let me guide you through the process of creating this presentation. I started similarly to the talk about Web design by putting everything on paper and making a mind map of my ideas. Then some that resonated with me the most made it to sticker notes and were grouped together according to their topic and possible connection. I eventually found some themes that I felt like  I would like to dive deeper into.
+Hi! Let me guide you through the creation of this presentation. I started as the creator of Web design talk by putting everything on paper and making a mind map of my ideas. Then some that resonated with me the most made it to sticker notes and were grouped according to their topic and possible connection. I eventually found some themes I wanted to dive deeper into.
 
 ### Mind map
 ![image](https://user-images.githubusercontent.com/116082661/225023187-ce120fea-d18a-4f6a-b95b-b555148357c6.png)
