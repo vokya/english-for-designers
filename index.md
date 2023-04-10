@@ -19,7 +19,7 @@ Welcome to my page! I am graphic designer mainly focused on illustration and bra
 ## Work from summer semester
 - [Storytelling](06-storytelling/index.md)
 - [Thesis Abstract](07-thesis-abstract/index.md)
-- [Final presentation of my thesis](07-alternative-text)
+- [Final presentation of my thesis](08-thesis-presentation/index.md)
 ---
 
 🫶 [You can also view my online portfolio](https://vokounovaannadb3b.myportfolio.com/work) 🫶
