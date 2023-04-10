@@ -19,6 +19,10 @@ Welcome to my page! I am graphic designer mainly focused on illustration and bra
 - [First Impression](02-first-impression)
 - [Takeaways](takeaways)
 
+## Work from summer semester
+- [Talk about design](07-alternative-text
+- [Abstract](07-alternative-text)
+- [Presentation of my thesis](07-alternative-text)
 ---
 
 🫶 [You can also view my portfolio](https://vokounovaannadb3b.myportfolio.com/work) 🫶
