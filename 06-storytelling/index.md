@@ -2,7 +2,7 @@
 
 by Anna Vokounová
 
-- View 💬[Actual figma slides](https://www.figma.com/file/0N8ElwgWVoWV3GnkLCClg8/Talk?node-id=0%3A1&t=9Yzg0jdaZm33Lrjd-1)
+- View 💬[Actual figma slides](https://www.figma.com/proto/0N8ElwgWVoWV3GnkLCClg8/Talk?page-id=0%3A1&node-id=0-14&starting-point-node-id=0%3A14)
 - View ✏️[the process](process.md) <!-- Preparation, show and tell your process; think, case study. -->
 
 Here is a transcript of the presentation 👇🏼
