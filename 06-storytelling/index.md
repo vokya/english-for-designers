@@ -2,9 +2,10 @@
 
 by Anna Vokounová
 
-- Download [the slides](slides.pdf) <!-- Link to your slides: PDF, Figma, etc. -->
-- View [the process](process.md) <!-- Preparation, show and tell your process; think, case study. -->
+- View 💬[Actual figma slides](https://www.figma.com/file/0N8ElwgWVoWV3GnkLCClg8/Talk?node-id=0%3A1&t=9Yzg0jdaZm33Lrjd-1)
+- View ✏️[the process](process.md) <!-- Preparation, show and tell your process; think, case study. -->
 
+Here is a transcript of the presentation 👇🏼
 
 ## Few things I’ve learned as a designer
 When I was asked to think of a story to share, I thought to myself What could I possibly share that would be somehow useful to you? I am a junior designer currently pursuing my bachelor's year so I was thinking that I could summon and kind of reflect on things that I’ve learned during my professional design journey.
