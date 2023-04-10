@@ -25,4 +25,4 @@ Welcome to my page! I am graphic designer mainly focused on illustration and bra
 - [Final presentation of my thesis](07-alternative-text)
 ---
 
-🫶 [You can also view my portfolio](https://vokounovaannadb3b.myportfolio.com/work) 🫶
+🫶 [You can also view my online portfolio](https://vokounovaannadb3b.myportfolio.com/work) 🫶
