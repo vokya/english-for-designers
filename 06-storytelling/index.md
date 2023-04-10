@@ -10,8 +10,17 @@ Here is a transcript of the presentation 👇🏼
 ## Few things I’ve learned as a designer
 When I was asked to think of a story to share, I thought to myself What could I possibly share that would be somehow useful to you? I am a junior designer currently pursuing my bachelor's year so I was thinking that I could summon and kind of reflect on things that I’ve learned during my professional design journey.
 
+| ![fisrt sketchlike layer of oil painting, whole canvas covered in brown foundation color](oil-painting.png) |
+|:--:|
+|*First layer of oil painting*|
+
 Maybe some of you have experience with oil painting. My professor in high school learned me that this is the correct technique to paint the first layers.  This technique I told you about surely has a painting logic behind it but it also helps get rid of the scary empty whiteness. It is messy, weird and frustrating, full of trial and error, and ultimately incomplete depiction of what the final piece will be. I think in that way the first layers are a lot like your 20s. It's mostly a mess and trying to figure it out but as first layers, they are crucial for the integrity and foundation of the work and even the most gracious works have them. But sometimes even this doesn’t bring me comfort and I still feel like this. Sometimes I still feel like I suck. But I think that's normal. Let me tell you why...
 
+| ![fisrt sketchlike layer of oil painting, whole canvas covered in brown foundation color](oil-painting.png) |
+|:--:|
+|*First layer of oil painting*|
+
+ 
 Last summer I went to work full-time in the design studio which was pretty much my first real design work experience. And these were my thought pretty much all the time.
 Some time passed and I started to be a little bit more comfortable and I gain some confidence in what I am doing. I love the book called Why has nobody told me this before by famous clinical psychologist Julie Smith. She wrote that gaining confidence comes from going somewhere where you have no confidence at all. Confidence is like a home that you have to build, when you go somewhere else you have to build a new one but every time yous start with a better foundation than before and it eventually gets easier. And I think that the point of not only our 20s but our whole life is to continuously build these little houses by learning and practicing new things.
 
