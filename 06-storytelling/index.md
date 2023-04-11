@@ -9,14 +9,18 @@ Here is a transcript of the presentation 👇🏼
 
 ## Few things I’ve learned as a designer
 When I was asked to think of a story to share, I thought to myself What could I possibly share that would be somehow useful to you? I am a junior designer currently pursuing my bachelor's year so I was thinking that I could summon and kind of reflect on things that I’ve learned during my professional design journey.
-| ![fisrt sketchlike layer of oil painting, whole canvas covered in brown foundation color](oil-painting.png) |
+
+| ![fisrt sketchlike layer of oil painting, whole canvas covered in brown foundation color](oil-painting.png)|
+
 |:--:|
 |*First layer of oil painting*|
 
 Maybe some of you have experience with oil painting.
 My professor in high school learned me that this is the correct technique to paint the first layers. This technique I told you about surely has a painting logic behind it but it also helps get rid of the scary empty whiteness. It is messy, weird, and frustrating, full of trial and error, and ultimately incomplete depiction of what the final piece will be.
 I think that the first layers are a lot like your 20s. It's mostly a mess and trying to figure it out but as first layers, they are crucial for the integrity and foundation of the work and even the most gracious works have them. But sometimes even this doesn’t bring me comfort and I still feel like this sometimes I still suck. But I think that`s normal. Let me tell you why…
-| ![illustration of a beanlike character throwing hands in the air as if it doesn't care and saying it sucks and laughs about it](beanie-illustration.png) |
+
+| ![illustration of a beanlike character throwing hands in the air as if it doesn't care and saying it sucks and laughs about it](beanie-illustration.png) 
+
 |:--:|
 |*Beanie*|
 
@@ -25,7 +29,9 @@ Last summer I went to work full-time in the design studio which was pretty much 
 ### So what stands in our way (well, at least in mine)?
 
 I give you an example from my normal life when I was meant to prepare for my very first yoga class. I had crystal clear ideas of how it should go and what people should get from my class. I wanted it to be like a safe space where you throw behind all ideas about how the poses should look and allow yourself just try and be your imperfect you. As I encouraged people to lose the judging voice in their heads, mine on the other hand began to feel like a war mighty general who was not going to cut me any slack anytime soon. So I was the right example of not practicing what I was preaching. I think this picture says it all. As you might guess I am talking about perfectionism.
+
 | ![In illustrated comics simple character says: "Well, I didn't do it perfectly, I feel like I am going to burst into flames, but otherwise, I am doing just fantastic."](perfectionism-illustration.png) |
+
 |:--:|
 |*Perfectionism captured in one picture*|
 
