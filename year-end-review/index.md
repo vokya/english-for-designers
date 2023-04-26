@@ -27,7 +27,7 @@ Even though I was thinking about it, I regret not giving more concrete feedback 
 And also I wanted to make a more flashy and interactive thesis presentation like the ones you showed us but there was no time.🥵 
 
 ### 8) What’s one thing I could have done better?
-I have honestly no comment. Thank you for a great year. Thank yoi for reassuring us about our abilities, being supportive, and also always ready to help! 🫶🏻
+I have honestly no comment. Thank you for a great year. Thank you for reassuring us about our abilities, being supportive, and also always ready to help! 🫶🏻
 
 ### 9) What’s one thing you would add or change about this course?
 I'd suggest more teamwork during classes or tasks that encourage interaction. 
