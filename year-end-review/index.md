@@ -16,7 +16,7 @@ I think we talked about abstracts a little more than needed.
 My favourite would be the thesis and storytelling presentation and from the semester presenting of home pages. It was interesting and inspiring to watch work of others.
 
 ### 5) What’s something you accomplished this year that you are most proud of?
-I would say I am proud of the work I’ve done during this course mostly presentation because I used to struggle with that in the past.
+I would say I am proud of the work I’ve done during this course mostly presentation,because I used to struggle with that in the past.
 
 ### 6) What’s one thing you learned about yourself?
 I`ve learned about myself as a designer, from voice of tone to reviewing my casestudies. 
