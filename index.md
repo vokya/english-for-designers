@@ -20,6 +20,6 @@ Welcome to my page! I’m a graphic designer focused on illustration and brandin
 - [Storytelling](06-storytelling/index.md)
 - [Thesis Abstract](07-thesis-abstract/index.md)
 - [Final presentation of my thesis](08-thesis-presentation/index.md)
+- [Year End Review](year-end-review/index.md)
 ---
-
-🫶 [You can also view my online portfolio](https://vokounovaannadb3b.myportfolio.com/work) 🫶
+ [You can also view my online portfolio here](https://vokounovaannadb3b.myportfolio.com/work) 
