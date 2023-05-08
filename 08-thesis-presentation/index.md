@@ -8,7 +8,7 @@ by Anna Vokounová
 
 ### About the project
 The project was created due to insufficient school capacity in the area. The founder is the municipality association Pod Beckovem including my hometown Měšice, where the school will be located. 
-The school building will be created by restoring the farm buildings in the castle ground. 
+The school building will be created by restoring the farm buildings on the castle ground. 
 Fully equipped self-sufficient primary school with 9 classrooms for 300 children.
  
 ![An architectural visual representation of the school building in relation to the castle.](01.jpg)
