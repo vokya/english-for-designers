@@ -4,7 +4,7 @@
 
 by Anna Vokounová
 
-- View 📁[figma slides](https://www.figma.com/proto/10tEkcuKMj7xXKM9MsBymw/thesis-presentation?page-id=0%3A1&type=design&node-id=5-15477&viewport=313%2C639%2C0.02&scaling=min-zoom&starting-point-node-id=1%3A638)
+- View 📁[figma slides](https://www.figma.com/proto/10tEkcuKMj7xXKM9MsBymw/thesis-presentation?page-id=0%3A1&type=design&node-id=1-638&viewport=313%2C639%2C0.02&scaling=scale-down&starting-point-node-id=1%3A638)
 
 ### About the project
 The project was created due to insufficient school capacity in the area. The founder is the municipality association Pod Beckovem including my hometown Měšice, where the school will be located. 
